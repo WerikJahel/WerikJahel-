@@ -5,16 +5,16 @@
 - 📫 How to reach me: fabricio_fsn@icloud.com <br />
 
 <div align="center">
-  <a href="https://github.com/fabriciofsn">
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=fabriciofsn&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
-  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciofsn&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/WerikJahel">
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=WerikJahel&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
+  <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=WerikJahel&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
   <div style="display: flex, justify-content: space-between, align-itens: center"><br>
   <img align="center" alt="Fabricio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
      <img align="center" alt="Fabricio-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
     <img align="center" alt="Fabricio-node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Fabricio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  
   <img align="center" alt="Fabricio-Git" height="30" width="40" src="https://icongr.am/devicon/git-plain.svg?size=148&color=cd23c7">
   <img align="center" alt="Fabricio-GitHub" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/733/733553.png">
     
